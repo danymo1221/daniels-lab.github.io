@@ -1,22 +1,4 @@
 [
-    // Example:
-    // {
-    //     "title": "screenie",
-    //     "url": "screenie",
-    //     "description": "share your screenshots and videos easily (originally hypixel.lol)",
-    //     "extended_description": "A ShareX screenshot uploader, with support for domain management, user management, Spotify now playing, public profiles and so much more! It is based on Sveltekit and AppWrite.",
-    //     "image": "screenie.png",
-    //     "images": ["screenie.png", "admindashboard.png", "archivemanagement.png"],
-    //     "links": [
-    //         { "label": "Open", "url": "https://github.com/screeniehost" }
-    //     ],
-    //     "badges": [
-    //         { "label": "NodeJS" },
-    //         { "label": "DaisyUI" },
-    //         { "label": "Javascript" }
-    //     ]
-    // },
-
     {
         "title": null,
         "url": null,
@@ -37,5 +19,4 @@
         "links": [],
         "badges": []
     }
-    // ... other empty entries
 ]

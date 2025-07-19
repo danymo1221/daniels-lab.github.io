@@ -1,0 +1,23 @@
+{
+  "title": "Your Project Name",
+  "url": "project-url-key", 
+  "description": "Short tagline or intro to your project",
+  "extended_description": "Longer paragraph explaining what the project does, what technologies it uses, features, etc.",
+  "image": "thumbnail.png", 
+  "images": [
+    "thumbnail.png", 
+    "screenshot1.png", 
+    "screenshot2.png"
+  ],
+  "links": [
+    {
+      "label": "Open",
+      "url": "https://github.com/your/project"
+    }
+  ],
+  "badges": [
+    { "label": "NodeJS" },
+    { "label": "Bootstrap" },
+    { "label": "Javascript" }
+  ]
+}
