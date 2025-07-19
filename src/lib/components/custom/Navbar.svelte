@@ -25,7 +25,7 @@
   <span class="hidden md:inline text-white font-bold">My projects</span>
 </Button>
 
-<Button variant="ghost" href="https://status.daniels-lab.com" aria-label="Service status" class="flex items-center gap-2 transition-all duration-150 hover:bg-white/20 active:bg-white/30 rounded-lg">
+<Button variant="ghost" href="https://status.daniels-lab.com/status/daniels-lab" aria-label="Service status" class="flex items-center gap-2 transition-all duration-150 hover:bg-white/20 active:bg-white/30 rounded-lg">
   <Server class="w-5 h-5 text-white" />
   <span class="hidden md:inline text-white font-bold">Service Status</span>
 </Button>

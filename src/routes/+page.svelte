@@ -94,7 +94,7 @@
               <Button
                 variant="default"
                 size="icon"
-                href="https://status.daniels-lab.com"
+                href="https://status.daniels-lab.com/status/daniels-lab"
                 target="_blank"
                 aria-label="Check status of services"
               >
@@ -118,7 +118,7 @@
         <ScrollArea class="flex flex-col w-full max-h-56 p-1">
           <div class="flex gap-3 flex-col">
             <a
-            href="https://status.daniels-lab.com"
+            href="https://status.daniels-lab.com/status/daniels-lab"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 p-4 rounded-xl shadow cursor-pointer w-full transition-all border border-white/30 bg-white/10 backdrop-blur-xl hover:shadow-lg hover:bg-white/20"
