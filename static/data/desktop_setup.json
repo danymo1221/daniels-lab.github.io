@@ -1,37 +1,37 @@
 [
   {
     "type": "Laptop",
-    "device": "MacBook Air M1",
-    "specs": "8GB RAM, 256GB SSD"
+    "device": "Dell Latitude 7490",
+    "specs": "32GB RAM, 2TB Nvme"
   },
   {
     "type": "Monitor",
-    "device": "Xiaomi A27i",
-    "specs": "27\", 100Hz, 1080p"
+    "device": "Samsung LED Monitor",
+    "specs": "32\", 60Hz, 3840x2160p (4k)"
   },
   {
     "type": "CPU",
-    "device": "Intel Core i3-4170",
-    "specs": "3.70GHz, 2 cores, 4 threads"
+    "device": "Ryzen 7 7800X3D",
+    "specs": "4.20GHz, 8 cores, 16 threads"
   },
   {
     "type": "GPU",
-    "device": "NVIDIA GeForce GTX 1050 Ti",
-    "specs": "4GB GDDR5"
+    "device": "NVIDIA GeForce RTX 3060",
+    "specs": "12GB GDDR5"
   },
   {
     "type": "RAM",
-    "device": "Kingston DDR3",
-    "specs": "16GB (2x8GB), 1600MHz"
+    "device": "Corsair DDR5-4800",
+    "specs": "32GB (2x16GB), 4800MHz"
   },
   {
     "type": "OS",
-    "device": "Windows 11",
+    "device": "Windows 11 Pro",
     "specs": "24H2 (26100)"
   },
   {
     "type": "IDE",
     "device": "Visual Studio Code",
-    "specs": "Catppuccin theme, Prettier"
+    "specs": "Github, discord-extension for the snoopers"
   }
 ]
