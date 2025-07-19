@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "matyii.github.io",
+      "name": "daniels-lab.github.io",
       "dependencies": {
         "@lucide/svelte": "^0.510.0",
         "@types/node": "^22.15.17",
