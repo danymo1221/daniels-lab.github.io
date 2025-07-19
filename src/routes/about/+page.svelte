@@ -23,6 +23,7 @@
       }
     });
 </script>
+
 <div class="flex flex-col justify-center items-center min-h-screen px-4 mb-5">
   <div class="flex justify-center w-full max-w-screen-xl mx-auto mt-5">
     <Card.Root class="bg-white/10 backdrop-blur-2xl border border-white/30 rounded-xl text-white shadow-lg p-6 w-full max-w-[540px]">
@@ -35,21 +36,23 @@
               <Tabs.Trigger value="setup" class="px-4 py-2 rounded-lg font-semibold transition-all data-[state=active]:bg-white/20 data-[state=active]:border-b-4 data-[state=active]:border-indigo-300 data-[state=active]:text-indigo-100 data-[state=inactive]:text-neutral-300 data-[state=inactive]:hover:bg-white/10">Setup</Tabs.Trigger>
             </Tabs.List>
           </div>
+
           <Tabs.Content value="about">
             <div class="space-y-4">
               <Card.Title class="text-center">About Me</Card.Title>
-              <p>Hi there! My name is Kristóf Mátyás, and I’m a 20-year-old IT technician with a passion for all things tech.</p>
-              <p>I specialize in system administration and networking, though I'm always open to new challenges. I’ve worked on projects with FiveM, GitLab, UniFi, and more, and I’ve really enjoyed learning and collaborating on them.</p>
-              <p>When I’m not coding or tinkering with tech, you’ll find me outside spending time with my girlfriend or cruising around with her in my car, listening to music.</p>
-              <p>For business enquiries, don’t hesitate to contact me via <a href="mailto:matyas@matyas.services" class="text-info underline underline-offset-4 transition-all hover:text-blue-400">e-mail.</a></p>
+              <p>Hey! I’m Daniel — a 24-year-old tinkerer with a passion for law and IT.</p>
+              <p>I’m currently working as a Project & Growth Manager at ZAP-Hosting, while also diving into the technical side as a System Integration Specialist.</p>
+              <p>When I’m not knee-deep in terminal windows or project charts, I’m probably brushing up on legal theory, exploring how technology impacts the law, or just enjoying a bit of downtime and side-project chaos.</p>
+              <p>For business enquiries, feel free to reach out at <a href="mailto:me@daniels-lab.com" class="text-info underline underline-offset-4 transition-all hover:text-blue-400">me@daniels-lab.com</a>.</p>
               <div class="flex flex-col gap-3 mt-4">
-                <Button href="mailto:matyas@matyas.services" variant="default">Business enquiries</Button>
-                <Button href="https://drive.google.com/file/d/1edMNHy80zorF55jnZJ3igLv9XpTS5Mm1/view" target="_blank" variant="default">
+                <Button href="mailto:me@daniels-lab.com" variant="default">Business enquiries</Button>
+                <Button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" variant="default">
                   Open my CV
                 </Button>
               </div>
             </div>
           </Tabs.Content>
+
           <Tabs.Content value="skills">
             <div class="space-y-4">
               <Card.Title class="text-center">Skills and Certifications</Card.Title>
@@ -59,7 +62,7 @@
                   <Accordion.Content>
                     <ul class="list-disc pl-6 text-sm">
                       <li>Calm problem-solving skills</li>
-                      <li>Microsoft Office - Intermediate</li>
+                      <li>Home-Self-Hosting - Intermediate</li>
                       <li>Windows and Linux Administration - Intermediate</li>
                       <li>Basic networking knowledge and acquaintance with the UniFi ecosystem</li>
                     </ul>
@@ -69,9 +72,9 @@
                   <Accordion.Trigger class="font-semibold">Languages</Accordion.Trigger>
                   <Accordion.Content>
                     <ul class="list-disc pl-6 text-sm">
-                      <li>Hungarian - Native</li>
-                      <li>English - B2</li>
-                      <li>Slovak - Intermediate</li>
+                      <li>Welsh - Native</li>
+                      <li>English - Secondary</li>
+                      <li>Wenglish? - Intermediate</li>
                     </ul>
                   </Accordion.Content>
                 </Accordion.Item>
@@ -82,7 +85,7 @@
                       <li>
                         ECDL - module M2, M3, M4, M6 and M7
                         <a
-                          href="https://drive.google.com/file/d/1SObqxvhzIn_WlqRR7yRoK5FmCUUi450k/view"
+                          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
                           target="_blank"
                           class="text-blue-400 hover:underline"
                         >[show]
@@ -94,9 +97,10 @@
               </Accordion.Root>
             </div>
           </Tabs.Content>
+
           <Tabs.Content value="setup">
             <div class="space-y-4">
-              <Card.Title class="text-center">My Coding Setup</Card.Title>
+              <Card.Title class="text-center">My Tinkering Setup</Card.Title>
               <div class="my-6 w-full overflow-y-auto">
                 {#if loading}
                   <div class="text-center text-neutral-400">Loading...</div>
