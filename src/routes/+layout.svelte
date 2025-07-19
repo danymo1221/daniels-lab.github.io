@@ -97,7 +97,7 @@
         enableParallax();
     }
 
-    const staticTitle = "itsmatyii | Kristóf Mátyás";
+    const staticTitle = "Daniels Lab | Dan";
     $: fullTitle = $pageTitle ? `${$pageTitle} - ${staticTitle}` : staticTitle;
 
     
