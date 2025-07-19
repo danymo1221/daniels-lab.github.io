@@ -28,7 +28,7 @@
     <Card.Root class="w-full max-w-sm shadow-md flex flex-col h-full bg-white/10 backdrop-blur-2xl border border-white/30 rounded-xl text-white">
       <Card.Header class="flex flex-col items-center justify-center space-y-4 text-center">
         <Avatar.Root class="my-3 hover:scale-110 transition-all size-28 border-4 border-white/40 hover:border-indigo-300/80">
-          <Avatar.Image src="/pfp.png" alt="@matyii" />
+          <Avatar.Image src="/pfp.png" alt="@danielp" />
           <Avatar.Fallback>MK</Avatar.Fallback>
         </Avatar.Root>
         <Card.Title>Daniel Pearce</Card.Title>
@@ -112,22 +112,22 @@
     <Card.Root class="w-full max-w-sm shadow-md flex flex-col h-full bg-white/10 backdrop-blur-2xl border border-white/30 rounded-xl text-white">
       <Card.Header class="flex flex-col items-center justify-center space-y-2 text-center">
         <Card.Title>The Daniels-Lab Net 🤖</Card.Title>
-        <Card.Description class="text-neutral-700 dark:text-neutral-300">Core systems, projects & more</Card.Description>
+        <Card.Description class="text-neutral-700 dark:text-neutral-300">Core systems, Network projects & more</Card.Description>
       </Card.Header>
       <Card.Content class="flex-1 flex flex-col gap-4 justify-between">
         <ScrollArea class="flex flex-col w-full max-h-56 p-1">
           <div class="flex gap-3 flex-col">
             <a
-            href="https://selfhostguides.diy"
+            href="https://status.daniels-lab.com"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 p-4 rounded-xl shadow cursor-pointer w-full transition-all border border-white/30 bg-white/10 backdrop-blur-xl hover:shadow-lg hover:bg-white/20"
             aria-label="selfhostguides.diy"
           >
-            <img src="https://selfhostguides.diy/shg.png" alt="selfhostguides.diy" class="h-10 object-cover rounded-md" />
+            <img src="https://daniels-lab.com/status.png" alt="status daniels-lab.com" class="h-10 object-cover rounded-md" />
             <div class="flex flex-col items-start">
-              <span class="font-semibold text-lg">input1 here</span>
-              <span class="text-neutral-700 dark:text-neutral-300 text-sm">guides and resources from the selfhosting community</span>
+              <span class="font-semibold text-lg">System Status</span>
+              <span class="text-neutral-700 dark:text-neutral-300 text-sm">Status of my and hand-picked community members services</span>
             </div>
             </a>
             <a
@@ -137,10 +137,10 @@
             class="flex items-center gap-4 p-4 rounded-xl shadow cursor-pointer w-full transition-all border border-white/30 bg-white/10 backdrop-blur-xl hover:shadow-lg hover:bg-white/20"
             aria-label="Network Status"
           >
-            <img src="https://matyas.services/favicon.png" alt="Status" class="w-12 h-12 object-cover rounded-md" />
+            <img src="https://daniels-lab.com/mail.png" alt="Status" class="w-12 h-12 object-cover rounded-md" />
             <div class="flex flex-col items-start">
               <span class="font-semibold text-lg">Daniels Lab Mailer ✉</span>
-              <span class="text-neutral-700 dark:text-neutral-300 text-sm">Mailing System for my network </span>
+              <span class="text-neutral-700 dark:text-neutral-300 text-sm">Mailing System for the labs network </span>
             </div>
           </a>
             <!-- <a
