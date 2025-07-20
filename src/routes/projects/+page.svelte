@@ -95,8 +95,7 @@
               class="flex-1 min-w-[120px]"
               onclick={() => window.open(link.url, "_blank")}
             >
-              <Github class="w-4 h-4 mr-1" />
-              GitHub
+              Check it out
             </Button>
           {/each}
         </Card.Footer>
