@@ -1,22 +1,48 @@
 [
     {
-        "title": null,
-        "url": null,
-        "description": null,
-        "extended_description": null,
-        "image": null,
-        "images": [],
-        "links": [],
-        "badges": []
+        "title": "Zenrock",
+        "url": "zenrock",
+        "description": "A reinvented and modernised Orbit Bot with newer features",
+        "extended_description": "After discords new api changes and bringing in slash commands I recreated and updated orbit with a modernised design",
+        "image": "zenrock.png",
+        "images": [
+            "zenrock.png",
+            "zenrock-discord.png"
+        ],
+        "links": [
+            {
+            "label": "Invite",
+            "url": "https://discord.com/oauth2/authorize?client_id=696477818732806205&scope=bot&permissions=8"
+            }
+        ],
+        "badges": [
+            { "label": "Python 3.12+" },
+            { "label": "Discord.py[Voice]" },
+            { "label": "lavalink" },
+            { "label": "meme & reddit api" },
+            { "label": "nodejs" }
+        ]
     },
     {
-        "title": null,
-        "url": null,
-        "description": null,
-        "extended_description": null,
-        "image": null,
-        "images": [],
-        "links": [],
-        "badges": []
+        "title": "Orbit",
+        "url": "orbit", 
+        "description": "A Private Repo of a multipurpose discord bot",
+        "extended_description": "I created back in 2018 a fully multi-purpose verified discord bot for public, that gained over 10k discord servers before changing to zenrock",
+        "image": "thumbnail-orbit.png", 
+        "images": [
+            "thumbnail-orbit.png" 
+        ],
+        "links": [
+            {
+            "label": "Private URL",
+            "url": "https://github.com/danymo1221/Orbit"
+            }
+        ],
+        "badges": [
+            { "label": "Python 3.7+" },
+            { "label": "Discord.py[Voice]" },
+            { "label": "youtube-dl" },
+            { "label": "nodejs" }
+    ]
     }
 ]
