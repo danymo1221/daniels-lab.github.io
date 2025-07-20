@@ -153,7 +153,7 @@
             <img src="https://daniels-lab.com/screenshot-image.png" alt="Screenshare" class="h-10 object-cover rounded-md" />
             <div class="flex flex-col items-start">
               <span class="font-semibold text-lg">Screenshare</span>
-              <span class="text-neutral-700 dark:text-neutral-300 text-sm">labs screenshot and file uploading service</span>
+              <span class="text-neutral-700 dark:text-neutral-300 text-sm">Labs screenshot and file uploading service</span>
             </div>
           </a>
           </div>
