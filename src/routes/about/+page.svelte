@@ -83,14 +83,17 @@
                   <Accordion.Content>
                     <ul class="list-disc pl-6 text-sm">
                       <li>
-                        ECDL - module M2, M3, M4, M6 and M7
+                        BSc (Hons) Professional Policing
                         <a
-                          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                          href="https://www.joiningthepolice.co.uk/application-process/ways-in-to-policing/professional-policing-degree-holder"
                           target="_blank"
                           class="text-blue-400 hover:underline"
                         >[show]
                         </a>
                       </li>
+                      <li>Level 3 & 2 BTEC Pearsons Public Services</li>
+                      <li>Level 2 BTEC Pearsons Information Creative Technology</li>
+                      <li>Level 2 BTEC Pearsons Media & Photography</li>
                     </ul>
                   </Accordion.Content>
                 </Accordion.Item>
