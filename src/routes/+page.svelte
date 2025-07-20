@@ -143,19 +143,19 @@
               <span class="text-neutral-700 dark:text-neutral-300 text-sm">Mailing System for the labs network </span>
             </div>
           </a>
-            <!-- <a
-            href="https://screenie.host"
+            <a
+            href="https://cdn.daniels-lab.com"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 p-4 rounded-xl shadow cursor-pointer w-full transition-all border border-white/30 bg-white/10 backdrop-blur-xl hover:shadow-lg hover:bg-white/20"
             aria-label="screenie.host"
           >
-            <img src="screenie.png" alt="Services" class="h-10 object-cover rounded-md" />
+            <img src="https://daniels-lab.com/screenshot-image.png" alt="Screenshare" class="h-10 object-cover rounded-md" />
             <div class="flex flex-col items-start">
-              <span class="font-semibold text-lg">screenie.host</span>
-              <span class="text-neutral-700 dark:text-neutral-300 text-sm">screenshot and file uploading service (wip)</span>
+              <span class="font-semibold text-lg">Screenshare</span>
+              <span class="text-neutral-700 dark:text-neutral-300 text-sm">labs screenshot and file uploading service</span>
             </div>
-          </a> -->
+          </a>
           </div>
         </ScrollArea>
       </Card.Content>
